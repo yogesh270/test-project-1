@@ -2,6 +2,7 @@
 
 public class Vehicle {
     // initializations
+    private String name = "yogesh";
     public static int vehicleCounter = 0;
     private String brand;
     public final String VIN;
