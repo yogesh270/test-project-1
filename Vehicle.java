@@ -5,7 +5,7 @@ public class Vehicle {
     public static int vehicleCounter = 0;
     private String brand;
     public final String VIN;
-    private String color = "black";
+    private String color = "white";
 
     // constructor
     public Vehicle(String brand, String VIN) {
