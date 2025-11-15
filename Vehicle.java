@@ -7,6 +7,7 @@ public class Vehicle {
     private String brand;
     public final String VIN;
     private String color = "red";
+    private long price = 1000;
 
     // constructor
     public Vehicle(String brand, String VIN) {
